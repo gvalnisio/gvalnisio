@@ -3,7 +3,7 @@
 <p>My name is Gabriela and I'm 24.</br>
   Former astronomy student now venturing in the programming career. </p>
   
-<div>
+<div style="display:flex; justify-content:center;">
     <img width="45%"
       src="https://github-readme-stats.vercel.app/api?username=gvalnisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img width="45%"
