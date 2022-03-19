@@ -4,9 +4,9 @@
   Former astronomy student now venturing in the programming career. </p>
 <div>
   <a href="https://github.com/gvalnisio">
-    <img height="150em"
+    <img height="170em"
       src="https://github-readme-stats.vercel.app/api?username=gvalnisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="150em"
+    <img height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvalnisio&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
