@@ -1,24 +1,24 @@
-## Hello there :)
+## Hello there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p>My name is Gabriela and I'm 24.</br>
   Former astronomy student now venturing in the programming career. </p>
   
-<div style="display:flex; justify-content:center;">
+<p align="center">
     <img width="45%"
       src="https://github-readme-stats.vercel.app/api?username=gvalnisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img width="45%"
+    <img width="44%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvalnisio&layout=compact&langs_count=7&theme=dracula" />
-</div>
+</p>
 
-<div>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height=40/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="c++" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="python" height=40 />
-</div>
+</p>
 
-<div>
-  <a href="https://www.linkedin.com/in/gabriela-valnisio/" margin="20px" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&       logo=linkedin&logoColor=white" target="_blank" ></a>  
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriela-valnisio/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&       logo=linkedin&logoColor=white" target="_blank" ></a>  
+</p>
